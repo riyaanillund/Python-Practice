@@ -1,2 +1,4 @@
 # Python-Practice
-My first python practice!
+# My first python practice!
+# comments
+print("hello world")
